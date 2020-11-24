@@ -1,0 +1,12 @@
+{
+  "name": "ffmpeg-test",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.2",
+    "node-ffprobe": "^3.0.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
